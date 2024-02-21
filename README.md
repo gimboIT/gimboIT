@@ -5,8 +5,11 @@
 
 ## Контакты:
 
-![grad0ff](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&link=https://t.me/gimboy09)
-https://t.me/gimboy09
+<p align="center">
+  <a href="https://t.me/gimboy09"><img width="62px" alt="Telegram" title="Telegram" src="readme_design/logo/Telegram.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+</p>
 
 ## Технологический стек:
 
