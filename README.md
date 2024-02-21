@@ -1,4 +1,11 @@
-# github
+
+<h1 align="center">Greetings and salutations!</h1>
+<h3 align="center">I am Timur</h3>
+<h3 align="center">QA Engineer</h3>
+
+## Контакты:
+
+![grad0ff](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&link=https://t.me/gimboy09)
 
 ## Технологический стек:
 
@@ -19,3 +26,8 @@
 <img width="6%" title="Appium Inspector" src="readme_design/logo/appium_inspector.png">
 <img width="6%" title="Browserstack" src="readme_design/logo/browserstack.svg">
 </p>
+
+## Проекты:
+### <a target="_blank" href="https://github.com/gimboIT/WB_Test">UI Autotests</a> for <a target="_blank" href="https://wildberries.ru/"> Wildberries</a> website
+
+
